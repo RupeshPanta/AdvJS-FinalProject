@@ -22,7 +22,9 @@ exports.getTransactions=async(req,res,next)=>{ //mongoose method return promise 
         });
     }
 }
-//add transaction
+
+
+//Add transaction
 exports.addTransactions=async(req,res,next)=>{
     //res.send('GET transactions')
     //destructre of variable
