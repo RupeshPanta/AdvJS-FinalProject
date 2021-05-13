@@ -5,6 +5,7 @@ const path=require('path')
 const connectToDB=require('./config/db')
 //userdb
 //const connectToUserDB=require('./config/userdb')
+//configuration
 
 dotenv.config({path: './config/config.env'});
 
