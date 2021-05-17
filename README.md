@@ -1,7 +1,7 @@
 ## Expense-Tracker App (MERN)
-```
+
 This is my first MERN app. This is a very simple app where user can input their total expenditure on different items for a month and also input their total income for a month. This app substracts expenditure from income and let you know where you stand interms of finance like whether you were at loss or you made some saving.
-```
+
 ## Website link : 
 https://expense-tracker-mern-1.herokuapp.com/
 
