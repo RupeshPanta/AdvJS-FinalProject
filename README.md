@@ -1,20 +1,36 @@
 ## Expense-Tracker App (MERN)
-Full stack app 
-
-## Usage
-
-npm install
-
-
+```
+This is my first MERN app. This is a very simple app where user can input their total expenditure on different items for a month and also input their total income for a month. This app substracts expenditure from income and let you know where you stand interms of finance like whether you were at loss or you made some saving.
+```
+## Website link : 
+https://expense-tracker-mern-1.herokuapp.com/
 
 
-# Run front end and backend cuncurrently
-npm run dev
 
-# Run backend only
-npm run server
+# Deliverables 
+- Used MongoDB as backend database to store data
+- Used bootstrap framework for user interface (web design) layout and design using React
+- Provided a functionality for user signup
+- Provided authentication service or a functionality for users to login
+- Deployed project to Heroku via https://expense-tracker-mern-1.herokuapp.com/
 
-# Run Front-end only
-npm run front-end
+
+# Screenshot of Functionlity
+## Home page
+![Home page](Images/1.png)
+## User login page
+![login page](Images/3.a.png)
+## User sign up / Register page
+![Home page](Images/2.b.png)
+## What user can see once they are logged in
+![Home page](Images/3.b.png)
+## User can add and delete income and expenses and the app will calculate current balance and User are also provided with logout button.
+![Home page](Images/4.png)
+
+
+# Note :
+ This app is very simple as it was my first MERN stack app. I will keep working on this project and will add some more functions during this summer. There are still some parts which could have been better but becuase of time restriction, I could not update them as of now. My goal is to learn more about MERN and Nextjs in future. 
+
+
 
 
