@@ -3,7 +3,7 @@
 This is my first MERN app. This is a very simple app where user can input their total expenditure on different items for a month and also input their total income for a month. This app substracts expenditure from income and let you know where you stand interms of finance like whether you were at loss or you made some saving.
 
 
-## Demo video : What is Expense-Tracker App ?:
+## Demo video : Please click the link to see how my app works
 https://coloradomesa.zoom.us/rec/share/7MrZpbMIQ-ci4ZtB7g9BJaSw4auZGiZ_rrWOZWX99AGkD8vN0LfoIqI4e6vkIQWb.-Kxo6RuvEs5CaRgP
 
 
